@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototipoEvaluaciones.Web", "PrototipoEvaluaciones.Web\PrototipoEvaluaciones.Web.csproj", "{63D173E6-B7FB-486A-9C9C-A53751256957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototipoEvaluaciones.Negocio", "PrototipoEvaluaciones.Negocio2\PrototipoEvaluaciones.Negocio.csproj", "{5B6F417B-2A28-4CB8-A7C7-3E15B1B0C369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D173E6-B7FB-486A-9C9C-A53751256957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D173E6-B7FB-486A-9C9C-A53751256957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D173E6-B7FB-486A-9C9C-A53751256957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D173E6-B7FB-486A-9C9C-A53751256957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6F417B-2A28-4CB8-A7C7-3E15B1B0C369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6F417B-2A28-4CB8-A7C7-3E15B1B0C369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6F417B-2A28-4CB8-A7C7-3E15B1B0C369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6F417B-2A28-4CB8-A7C7-3E15B1B0C369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
